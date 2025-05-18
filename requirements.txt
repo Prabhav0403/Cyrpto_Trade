@@ -1,0 +1,8 @@
+ 
+websocket-client
+pandas
+numpy
+scikit-learn
+streamlit
+matplotlib
+asyncio
