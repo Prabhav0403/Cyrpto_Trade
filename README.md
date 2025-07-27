@@ -18,7 +18,7 @@ Build a low-latency trade simulator that can:
 ---
 
 ## 🏗️ Project Structure
-
+```
 goquant_sim/
 ├── app.py # Main Streamlit app
 ├── models/ # Modeling logic
@@ -38,7 +38,7 @@ goquant_sim/
 ├── README.md # This file
 └── main.py # Optional alt entry point
 
-
+```
 ---
 
 ## 🧰 Setup Instructions
